@@ -36,7 +36,7 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 <div class='paper-box-image'>
 <div>
 <div class="badge">arXiv</div>
-<img src='images/omniselect.png' alt="OmniSelect preview" width="100%">
+<img src='images/OmniSelect.png' alt="OmniSelect preview" width="100%">
 </div>
 </div>
 
@@ -60,7 +60,7 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 <div class='paper-box-image'>
 <div>
 <div class="badge">IP&M</div>
-<img src='images/ald2.png' alt="ALD2 preview" width="100%">
+<img src='images/ALW.png' alt="ALD2 preview" width="100%">
 </div>
 </div>
 
@@ -83,7 +83,7 @@ Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, 
 <div class='paper-box-image'>
 <div>
 <div class="badge">ACL 2026</div>
-<img src='images/batonvoice.png' alt="BatonVoice preview" width="100%">
+<img src='images/Batonvoice.png' alt="BatonVoice preview" width="100%">
 </div>
 </div>
 
