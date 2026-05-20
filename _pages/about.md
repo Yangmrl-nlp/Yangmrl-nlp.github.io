@@ -21,7 +21,6 @@ I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence**
 
 My research interests lie in **large model training and inference optimization, multimodal models, RL-based alignment, and hallucination mitigation**. In both research and engineering practice, I am familiar with **Python**, **PyTorch**, and the **Hugging Face Transformers** ecosystem. I also have experience with **LLaMA-style architectures**, preference alignment methods such as **RLHF, DPO, and GRPO**, and distributed training frameworks such as **DeepSpeed**. On the multimodal side, I have worked with models including **Qwen-VL, Qwen-Omni, and LLaVA**.
 
-
 # 🔥 News
 - *2026.02*: &nbsp;Started working on **OmniSelect: Dynamic Modality-Aware Token Compression for Omni-modal Large Language Models**.
 - *2025.09*: &nbsp;Started working on **BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs**.
@@ -32,7 +31,7 @@ My research interests lie in **large model training and inference optimization, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&amp;M</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ALD$^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models](#)
+[ALD$^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002608)
 
 **Morunliu Yang**, et al.
 
