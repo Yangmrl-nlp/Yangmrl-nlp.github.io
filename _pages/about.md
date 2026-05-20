@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence** at **Soochow University**. I received my B.E. degree in **Software Engineering** from **Xi'an Technological University**, where I ranked in the top 1\% of my major.
+I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence** at **Soochow University**. I received my B.E. degree in **Software Engineering** from **Xi'an Technological University**, where I ranked in the top **1%** of my major.
 
 My research interests lie in **large model training and inference optimization, multimodal models, RL-based alignment, and hallucination mitigation**. In both research and engineering practice, I am familiar with **Python**, **PyTorch**, and the **Hugging Face Transformers** ecosystem. I also have experience with **LLaMA-style architectures**, preference alignment methods such as **RLHF, DPO, and GRPO**, and distributed training frameworks such as **DeepSpeed**. On the multimodal side, I have worked with models including **Qwen-VL, Qwen-Omni, and LLaVA**.
 
 
 # 🔥 News
-- *2026.02*: &nbsp;Started working on **OmniSelect: Dynamic Modality-Aware Token Compression for Omni-modal Large Language Models**.
-- *2025.09*: &nbsp;Started working on **BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs**.
+- *2026.02*: &nbsp;One paer **OmniSelect: Dynamic Modality-Aware Token Compression for Omni-modal Large Language Models** has been realeased on arXiv.
+- - *2026.04*: &nbsp;One paper**ALD$^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models** has been accepted by Information Processing & Management.
+- *2026.04*: &nbsp;One paper**BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs** has been accepted by ACL 2026 Main.
 - *2025.09*: &nbsp;Began my M.S. study in Artificial Intelligence at Soochow University.
 
 # 📝 Publications 
@@ -36,7 +37,7 @@ My research interests lie in **large model training and inference optimization, 
 
 **Morunliu Yang**, et al.
 
-- Information Processing \& Management (CAS Q1 Top, CCF-B, Accepted)
+- Information Processing & Management (CAS Q1 Top, CCF-B, Accepted)
 - Duration: 2025.09--2025.12
 - Topic: Hallucination mitigation for multimodal large models
 </div>
@@ -60,8 +61,6 @@ My research interests lie in **large model training and inference optimization, 
 <div class='paper-box-text' markdown="1">
 
 [BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](#)
-
-**Morunliu Yang**, et al.
 
 - ACL 2026 Main (CCF-A, Accepted)
 - Duration: 2025.09--2025.11
