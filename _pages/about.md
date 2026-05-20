@@ -19,8 +19,7 @@ redirect_from:
 
 I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence** at **Soochow University**. I received my B.E. degree in **Software Engineering** from **Xi'an Technological University**, where I ranked in the top **1%** of my major.
 
-My research interests lie in **large model training and inference optimization, multimodal models, RL-based alignment, and hallucination mitigation**. In both research and engineering practice, I am familiar with **Python**, **PyTorch**, and the **Hugging Face Transformers** ecosystem. I also have experience with **LLaMA-style architectures**, preference alignment methods such as **RLHF, DPO, and GRPO**, and distributed training frameworks such as **DeepSpeed**. On the multimodal side, I have worked with models including **Qwen-VL, Qwen-Omni, and LLaVA**.
-
+My research interests lie in **LLMs post-training and inference optimization, multimodal/Omni-modal LLMs, RL-based alignment, and hallucinations mitigation**.
 
 # 🔥 News
 -😁😁😁 *2026.02*: &nbsp;One paer has been realeased on arXiv and code is avaliable.
