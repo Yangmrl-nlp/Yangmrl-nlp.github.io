@@ -47,9 +47,6 @@ My research interests lie in **large model training and inference optimization, 
 - Topic: Dynamic modality-aware token compression for omni-modal large language models
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&amp;M</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +62,8 @@ Yuechi Zhou<sup>\*</sup>, **Morunliu Yang<sup>\*</sup>**, Jiaxu Zhang, Juntao Li
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](#)
 Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Chen, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Min Zhang, Zhaopeng Tu, Xiaolong Li, Liefeng Bo
 
