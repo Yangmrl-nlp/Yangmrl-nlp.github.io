@@ -20,7 +20,7 @@ redirect_from:
 I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence** at **Soochow University**, supervised by Assoc. Prof.
     <a href="https://lijuntaopku.github.io">Juntao Li</a>. I received my B.E. degree in **Software Engineering** from **Xi'an Technological University**, where I ranked in the top **1%** of my major.
 
-My research interests lie in **efficient multimodal/omni-modal LLMs, RL-based alignment, and hallucinations mitigation in multimodal LLMs**.
+My research interests lie in **Efficient Multimodal/Omni-modal LLMs,Agentic RL for Mutimodal LLMs, and Hallucinations mitigation in multimodal LLMs**.
 
 <span class='anchor' id='news'></span>
 
