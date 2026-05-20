@@ -49,15 +49,7 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">IP&amp;M</div>
-<img src='images/ALW.png' alt="paper preview" width="100%">
-</div>
-</div>
-
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&M</div><img src='images/ALW.png' alt="paper preview" width="100%"></div></div> <div class='paper-box-text' markdown="1">
 
 [ALD$^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002608)
 
@@ -71,16 +63,8 @@ Yuechi Zhou<sup>\*</sup>, **Morunliu Yang<sup>\*</sup>**, Jiaxu Zhang, Juntao Li
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">ACL 2026</div>
-<img src='images/Batonvoice.png' alt="paper preview" width="100%">
-</div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Batonvoice.png' alt="paper preview" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+  
 [BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs](#)
 
 Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Chen, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Min Zhang, Zhaopeng Tu, Xiaolong Li, Liefeng Bo
