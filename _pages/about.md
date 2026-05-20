@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -21,6 +21,8 @@ I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence**
 
 My research interests lie in **LLMs post-training and inference optimization, multimodal/omni-modal LLMs, RL-based alignment, and hallucination mitigation**.
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 
 - 😁😁 2026.02: One paper has been released on arXiv and code is available.
@@ -30,7 +32,9 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 
 ---
 
-# 📚 Publications
+<span class='anchor' id='publications'></span>
+
+# 🤓 Publications
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -49,12 +53,11 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 
 - arXiv
 - Status: Under Review
-- Duration: Feb. 2026 – May 2026
+- Duration: Feb. 2026 - May 2026
 - Topic: Dynamic modality-aware token compression for omni-modal large language models
 
 </div>
 </div>
-
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -72,12 +75,11 @@ Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, 
 <sup>*</sup> Equal contribution
 
 - Information Processing & Management (CAS Q1 Top, CCF-B, Accepted)
-- Duration: Sep. 2025 – Dec. 2025
+- Duration: Sep. 2025 - Dec. 2025
 - Topic: Hallucination mitigation for Large Vision-Language Models
 
 </div>
 </div>
-
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -94,13 +96,15 @@ Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, 
 Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Chen, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Min Zhang, Zhaopeng Tu, Xiaolong Li, Liefeng Bo
 
 - ACL 2026 Main (CCF-A, Accepted)
-- Duration: Sep. 2025 – Nov. 2025
+- Duration: Sep. 2025 - Nov. 2025
 - Topic: Controllable speech synthesis with linguistic intelligence from LLMs
 
 </div>
 </div>
 
 ---
+
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 
@@ -109,7 +113,9 @@ Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Ch
 
 ---
 
+<span class='anchor' id='educations'></span>
+
 # 🎓 Education
 
-- 2025.09 – 2028.06 (expected), M.S. in Artificial Intelligence, Soochow University  
-- 2021.09 – 2025.06, B.E. in Software Engineering, Xi'an Technological University
+- 2025.09 - 2028.06 (expected), M.S. in Artificial Intelligence, Soochow University
+- 2021.09 - 2025.06, B.E. in Software Engineering, Xi'an Technological University
