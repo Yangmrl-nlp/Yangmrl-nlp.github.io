@@ -32,7 +32,7 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 
 # 🤓 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/OmniSelect.png' alt="paper preview" width="100%"></div></div> <div class='paper-box-text' markdown="1">
 
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +53,7 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 <div class='paper-box-image'>
 <div>
 <div class="badge">IP&amp;M</div>
-<img src='images/500x300.png' alt="paper preview" width="100%">
+<img src='images/ALW.png' alt="paper preview" width="100%">
 </div>
 </div>
 
@@ -75,7 +75,7 @@ Yuechi Zhou<sup>\*</sup>, **Morunliu Yang<sup>\*</sup>**, Jiaxu Zhang, Juntao Li
 <div class='paper-box-image'>
 <div>
 <div class="badge">ACL 2026</div>
-<img src='images/500x300.png' alt="paper preview" width="100%">
+<img src='images/Batonvoice.png' alt="paper preview" width="100%">
 </div>
 </div>
 
