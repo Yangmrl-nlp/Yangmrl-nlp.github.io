@@ -31,7 +31,7 @@ My research interests lie in **large model training and inference optimization, 
 
 -😺😺😺 *2025.09*: &nbsp;Began my M.S. study in Artificial Intelligence at Soochow University.
 
-# 📝 Publications 
+#🤓Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
