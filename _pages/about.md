@@ -32,19 +32,7 @@ My research interests lie in **LLMs post-training and inference optimization, mu
 
 # 🤓 Publications
 
-<style>
-.paper-box-text {
-    text-align: justify;
-}
-</style>
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">arXiv</div>
-<img src='images/500x300.png' alt="paper preview" width="100%">
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div> <div class='paper-box-text' markdown="1">
 
 <div class='paper-box-text' markdown="1">
 
