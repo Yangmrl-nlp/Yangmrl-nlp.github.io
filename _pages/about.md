@@ -36,7 +36,7 @@ My research interests lie in **large model training and inference optimization, 
 
 **Morunliu Yang**, et al.
 
-- Information Processing \& Management (CAS Q1 Top, CCF-B, Accepted)
+- Information Processing & Management (CAS Q1 Top, CCF-B, Accepted)
 - Duration: 2025.09--2025.12
 - Topic: Hallucination mitigation for multimodal large models
 </div>
