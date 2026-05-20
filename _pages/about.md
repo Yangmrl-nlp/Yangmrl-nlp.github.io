@@ -101,7 +101,7 @@ Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, 
 
 Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Chen, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Min Zhang, Zhaopeng Tu, Xiaolong Li, Liefeng Bo
 
-- ACL 2026 Main (CCF-A, Accepted)
+- ACL 2026 Main **(CCF-A, Accepted)**
 - Duration: Sep. 2025 - Nov. 2025
 - Topic: Controllable speech synthesis with linguistic intelligence from LLMs
 
