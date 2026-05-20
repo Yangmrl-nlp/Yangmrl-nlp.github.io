@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🎓 About Me
 I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence** at **Soochow University**, supervised by Assoc. Prof.
     <a href="https://lijuntaopku.github.io">Juntao Li</a>. I received my B.E. degree in **Software Engineering** from **Xi'an Technological University**, where I ranked in the top **1%** of my major.
 
@@ -52,8 +52,10 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 **Morunliu Yang<sup>*</sup>**, Ruotao Xu<sup>*</sup>, Le Li, Yue Wang, Jianxin Zhang, Juntao Li, Yihang Lou, Siwei Feng, Peifeng Li  
 <sup>*</sup> Equal contribution
 
-- arXiv
-- Status: Under Review
+[![](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2605.18041v1)
+[![](https://img.shields.io/badge/GitHub-Code-black?logo=github&logoColor=white)](https://github.com/Yangmrl-nlp/OmniSelect)
+
+- Status: **Under Review**
 - Duration: Feb. 2026 - May 2026
 - Topic: Dynamic modality-aware token compression for omni-modal large language models
 
@@ -75,9 +77,12 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, Siwei Feng  
 <sup>*</sup> Equal contribution
 
-- Information Processing & Management (CAS Q1 Top, CCF-B, Accepted)
+[![](https://img.shields.io/badge/Elsevier-Paper-orange?logo=elsevier)](https://arxiv.org/pdf/2605.18041v1)
+[![](https://img.shields.io/badge/GitHub-Code-black?logo=github&logoColor=white)](https://github.com/Yangmrl-nlp/Adaptive-Layer-wise-Denoising-Decoding)
+
+- Information Processing & Management **(CAS Q1 Top, CCF-B, Accepted)**
 - Duration: Sep. 2025 - Dec. 2025
-- Topic: Hallucination mitigation for Large Vision-Language Models
+- Topic: Hallucinations mitigation for Large Vision-Language Models
 
 </div>
 </div>
