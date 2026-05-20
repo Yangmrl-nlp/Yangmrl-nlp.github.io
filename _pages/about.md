@@ -23,11 +23,11 @@ My research interests lie in **large model training and inference optimization, 
 
 
 # 🔥 News
--😁😁😁 *2026.02*: &nbsp;One paer **OmniSelect: Dynamic Modality-Aware Token Compression for Omni-modal Large Language Models** has been realeased on arXiv.
+-😁😁😁 *2026.02*: &nbsp;One paer has been realeased on arXiv and code is avaliable.
 
--🎉🎉🎉 *2026.04*: &nbsp;One paper **ALD$^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models** has been accepted by Information Processing & Management.
+-🎉🎉🎉 *2026.04*: &nbsp;One paper has been accepted by **Information Processing & Management** and code is avaliable.
 
--🎉🎉🎉 *2026.04*: &nbsp;One paper **BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs** has been accepted by ACL 2026 Main.
+-🎉🎉🎉 *2026.04*: &nbsp;One paper has been accepted by **ACL 2026 Main**.
 
 -😺😺😺 *2025.09*: &nbsp;Began my M.S. study in Artificial Intelligence at Soochow University.
 
