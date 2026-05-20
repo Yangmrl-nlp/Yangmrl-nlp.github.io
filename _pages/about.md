@@ -108,16 +108,12 @@ Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Ch
 </div>
 </div>
 
----
-
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 
 - Bronze Medal, ICPC Regional Contest (Kunming)
 - Bronze Medal, ICPC National Invitational Contest (Xi'an)
-
----
 
 <span class='anchor' id='educations'></span>
 
