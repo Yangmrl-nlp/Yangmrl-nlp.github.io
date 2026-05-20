@@ -76,7 +76,7 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, Siwei Feng  
 <sup>*</sup> Equal contribution
 
-[![](https://img.shields.io/badge/Elsevier-Paper-orange?logo=elsevier)](https://arxiv.org/pdf/2605.18041v1)
+[![](https://img.shields.io/badge/Elsevier-Paper-orange?logo=elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002608)
 [![](https://img.shields.io/badge/GitHub-Code-black?logo=github&logoColor=white)](https://github.com/Yangmrl-nlp/Adaptive-Layer-wise-Denoising-Decoding)
 
 - Information Processing & Management **(CAS Q1 Top, CCF-B, Accepted)**
