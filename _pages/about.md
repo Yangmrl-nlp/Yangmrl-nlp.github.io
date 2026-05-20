@@ -31,8 +31,6 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 - 🎉🎉 2026.04: One paper has been accepted by *ACL 2026 Main*.
 - 😺😺 2025.09: Began my M.S. study in Artificial Intelligence at Soochow University.
 
----
-
 <span class='anchor' id='publications'></span>
 
 # 🤓 Publications
