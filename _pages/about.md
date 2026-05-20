@@ -17,35 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Morunliu Yang**, currently an M.S. student in **Artificial Intelligence** at **Soochow University**. I received my B.E. degree in **Software Engineering** from **Xi'an Technological University**, where I ranked in the top 1\% of my major.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in **large model training and inference optimization, multimodal models, RL-based alignment, and hallucination mitigation**. In both research and engineering practice, I am familiar with **Python**, **PyTorch**, and the **Hugging Face Transformers** ecosystem. I also have experience with **LLaMA-style architectures**, preference alignment methods such as **RLHF, DPO, and GRPO**, and distributed training frameworks such as **DeepSpeed**. On the multimodal side, I have worked with models including **Qwen-VL, Qwen-Omni, and LLaVA**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;Started working on **OmniSelect: Dynamic Modality-Aware Token Compression for Omni-modal Large Language Models**.
+- *2025.09*: &nbsp;Started working on **BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs**.
+- *2025.09*: &nbsp;Began my M.S. study in Artificial Intelligence at Soochow University.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&amp;M</div><img src='images/500x300.png' alt="paper preview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ALD$^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Morunliu Yang**, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Information Processing \& Management (CAS Q1 Top, CCF-B, Accepted)
+- Duration: 2025.09--2025.12
+- Topic: Hallucination mitigation for multimodal large models
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- OmniSelect: Dynamic Modality-Aware Token Compression for Omni-modal Large Language Models, **NeurIPS 2026 (CCF-A, Under Review)**, 2026.02--2026.05
+- BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs, **ACL 2026 Main (CCF-A, Accepted)**, 2025.09--2025.11
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Bronze Medal, The 49th International Collegiate Programming Contest (ICPC) Regional Contest, Kunming
+- Bronze Medal, The 49th International Collegiate Programming Contest (ICPC) National Invitational Contest, Xi'an
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2028.06 (expected)*, M.S. in Artificial Intelligence, School of Computer Science and Technology, Soochow University
+- *2021.09 - 2025.06*, B.E. in Software Engineering, School of Computer Science and Technology, Xi'an Technological University
