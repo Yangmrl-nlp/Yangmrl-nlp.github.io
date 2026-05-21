@@ -113,6 +113,8 @@ Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Ch
 
 - Bronze Medal, ICPC Regional Contest (Kunming)
 - Bronze Medal, ICPC National Invitational Contest (Xi'an)
+- Bronze Medal, ICPC National Invitational Contest (Wuhan)
+- Third Prize (Individual), National Finals of the 9th and 10th Group Programming Ladder Tournament(GPLT)
 
 <span class='anchor' id='educations'></span>
 
