@@ -56,7 +56,7 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 
 - Status: **Under Review**
 - Duration: Feb. 2026 - May 2026
-- Topic: Dynamic modality-aware token compression for omni-modal large language models
+- Topic: Dynamic modality-aware token compression for Omni-modal LLMs
 
 </div>
 </div>
