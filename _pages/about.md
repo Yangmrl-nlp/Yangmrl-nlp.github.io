@@ -100,6 +100,9 @@ Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, 
 
 Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Chen, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Min Zhang, Zhaopeng Tu, Xiaolong Li, Liefeng Bo
 
+[![](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.26514)
+[![](https://img.shields.io/badge/GitHub-Code-black?logo=github&logoColor=white)](https://github.com/wangyuenlp/batonvoice)
+
 - ACL 2026 Main **(CCF-A, Accepted)**
 - Duration: Sep. 2025 - Nov. 2025
 - Topic: Controllable speech synthesis with linguistic intelligence from LLMs
