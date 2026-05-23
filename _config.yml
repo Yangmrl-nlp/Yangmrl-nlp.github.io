@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Morunliu Yang"
+title                    : "Morunliu Yang" 
 description              : "Academic homepage of Morunliu Yang."
 repository               : "Yangmrl-nlp/Yangmrl.github.io"
 google_scholar_stats_use_cdn : true
