@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Morunliu Yang"
   avatar           : "images/photo.png"
-  bio              : "M.S. Student at Soochow University"
+  bio              : "M.S. Student <a href='https://opennlg.cn' target='_blank'>@OpenNLG</a> at Soochow University"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
