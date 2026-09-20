@@ -100,7 +100,7 @@ Yuechi Zhou<sup>*</sup>, **Morunliu Yang<sup>*</sup>**, Jiaxu Zhang, Juntao Li, 
 
 Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, **Morunliu Yang**, Wanshun Chen, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Min Zhang, Zhaopeng Tu, Xiaolong Li, Liefeng Bo
 
-[![ACL 2026 Paper](https://img.shields.io/badge/ACL%202026-Paper-blue)](https://aclanthology.org/2026.acl-long.2165.pdf)
+[![ACL-Paper](https://img.shields.io/badge/ACL-Paper-blue)](https://aclanthology.org/2026.acl-long.2165.pdf)
 [![](https://img.shields.io/badge/GitHub-Code-black?logo=github&logoColor=white)](https://github.com/wangyuenlp/batonvoice)
 
 - ACL 2026 Main **(CCF-A, Accepted)**
