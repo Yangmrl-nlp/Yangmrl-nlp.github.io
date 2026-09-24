@@ -27,6 +27,7 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 
 # 🔥 News
 
+- 🎉🎉 2026.09: One paper has been accepted by *NeurIPS 2026*.
 - 😁😁 2026.05: One paper has been released on arXiv and code is available.
 - 🎉🎉 2026.04: One paper has been accepted by *Information Processing & Management* and code is available.
 - 🎉🎉 2026.04: One paper has been accepted by *ACL 2026 Main*.
@@ -39,7 +40,7 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">arXiv</div>
+<div class="badge">NeurIPS 2026</div>
 <img src='images/OmniSelect.png' alt="OmniSelect preview" width="100%">
 </div>
 </div>
