@@ -55,7 +55,7 @@ My research interests lie in **Efficient Multimodal/Omni-modal LLMs, Agentic RL 
 [![](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2605.18041v1)
 [![](https://img.shields.io/badge/GitHub-Code-black?logo=github&logoColor=white)](https://github.com/Yangmrl-nlp/OmniSelect)
 
-- Status: **Under Review**
+- NeurIPS 2026 **(CCF-A, Accepted)**
 - Duration: Feb. 2026 - May 2026
 - Topic: Dynamic modality-aware token compression for Omni-modal LLMs
 
